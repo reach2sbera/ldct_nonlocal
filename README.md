@@ -36,6 +36,12 @@ The `data_path` should look like:
         │       └── ...
         └── full_3mm
                 └── ...     
+## USE
+use the prep.py file to generate the traning and test data.
+
+update the data path in train_model.py and test_model.py
+
+run the file train_model.py to train
 
 ## Acknowledgments
 * Our code architecture is inspired by [JiahuiYu](https://github.com/JiahuiYu/generative_inpainting) and [SSinyu](https://github.com/SSinyu/RED-CNN). 
